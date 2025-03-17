@@ -1,12 +1,59 @@
-# Introducción
+<div align="center">
 
-El chatter toca desactivarlo
+# 🚚 **ConstruFurgo** 🚚
 
-ConstruFurgo, una empresa especializada en la fabricación y comercialización de furgones industriales, experimentó un crecimiento acelerado, lo que generó la necesidad de optimizar su gestión de clientes y procesos internos. Para abordar este desafío, se decidió implementar Salesforce como su plataforma de CRM, permitiendo una mayor eficiencia operativa y mejor relación con el cliente.
+<img src="./IMG/Logo_Proyecto.png" alt="Logo ConstruFurgo" width="400">
 
-## ¿Que necesidades o desafíos presenta **ConstruFurgo**?
+</div>
 
-- Falta de un sistema centralizado para la gestión de clientes y oportunidades de negocio.
-- Procesos manuales en ventas, soporte y producción que ralentizaban las operaciones.
-- Dificultades en la automatización de flujos de trabajo y reportes de desempeño.
-- Deficiencias en la seguridad y auditoría de datos.
+# 🚀 Introducción
+
+**ConstruFurgo** es una empresa líder en la fabricación y comercialización de furgones industriales. Su rápido crecimiento generó la necesidad de optimizar la gestión de clientes y procesos internos. Para abordar este desafío, se implementó **Salesforce**, logrando:
+
+✅ Una plataforma robusta y concisa.
+
+✅ Mayor eficiencia operativa.
+
+✅ Automatización de procesos.
+
+## ❓ **Desafíos de ConstruFurgo**
+
+⚠️ Falta de un sistema centralizado para clientes y oportunidades de negocio.
+
+⚠️ Dificultades en la automatización de flujos de trabajo y reportes.
+
+⚠️ Deficiencias en seguridad y auditoría de datos.
+
+
+## 📄 **Documentación**
+
+Para más detalles sobre el sistema y su funcionamiento, consulta la documentación en **[Notion](https://www.notion.so/ConstruFurgo-1b5b22de53f680dfa859d38241e51daa)**.
+
+
+
+## 🎥 **Presentación del Proyecto**
+
+Descubre cómo **ConstruFurgo** está revolucionando la industria con Salesforce. Mira la presentación aquí:
+
+👉 [**Presentación de ConstruFurgo**](https://www.canva.com/design/DAGh7zLyCpo/P6AZWYhzAlnk2gtgMuKs4w/edit?utm_content=DAGh7zLyCpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+## 🛠️ **Herramientas Utilizadas**
+
+🔹 Excel
+
+🔹 Visual Studio Code
+
+🔹 Salesforce
+
+🔹 Notion
+
+🔹 Canva
+
+🔹 Github
+
+## 👤 **Desarrollado por:**
+
+🔹 **Juan Felipe Rubio Sanabria**
+
+🚀 ¡Gracias por ser parte de **ConstruFurgo**!
