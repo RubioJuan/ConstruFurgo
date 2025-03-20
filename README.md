@@ -27,15 +27,14 @@
 
 ## 📄 **Documentación**
 
-Para más detalles sobre el sistema y su funcionamiento, consulta la documentación en **[Notion](https://www.notion.so/ConstruFurgo-1b5b22de53f680dfa859d38241e51daa)**.
-
+Para más detalles sobre el sistema y su funcionamiento, consulta la documentación en <a href="https://www.notion.so/ConstruFurgo-1b5b22de53f680dfa859d38241e51daa" target="_blank">**Notion**.</a>
 
 
 ## 🎥 **Presentación del Proyecto**
 
 Descubre cómo **ConstruFurgo** está revolucionando la industria con Salesforce. Mira la presentación aquí:
 
-👉 [**Presentación de ConstruFurgo**](https://www.canva.com/design/DAGh7zLyCpo/P6AZWYhzAlnk2gtgMuKs4w/edit?utm_content=DAGh7zLyCpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<a href="https://www.canva.com/design/DAGh7zLyCpo/P6AZWYhzAlnk2gtgMuKs4w/edit?utm_content=DAGh7zLyCpo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">👉 **Presentación de ConstruFurgo**</a>
 
 
 ## 🛠️ **Herramientas Utilizadas**
